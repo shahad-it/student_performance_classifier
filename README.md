@@ -1,0 +1,1 @@
+A Data Science and Machine Learning project aimed at predicting the classification of students' academic performance (Low / Medium / High) and identifying the most influential factors affecting this performance, in order to support decision-making and enhance educational assistance.
